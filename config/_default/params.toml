@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = ""
     enableDarkMode = true
 # toml-docs-end main
 
@@ -13,7 +13,8 @@
 
 # toml-docs-start home
 [home]
-    sections = ["blog", "projects"]
+    sections = ["blog"]
+    featured = true
     featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
     style = ""
@@ -25,7 +26,7 @@
     color = "body"
     fixed = true
     offset = "4em"
-    search = true
+    search = false
     breadcrumb = false
     toc = true
     sidebar = true
@@ -34,17 +35,17 @@
 # toml-docs-start list
 [list]
     [blog]
-        title = "Blog"
+        title = ""
         sort = "date"
-        reverse = false
-        cols = 3
+        reverse = true
+        cols = 1
         color = ""
         padding = "0"
         header = "full"
         footer = "none"
         orientation = "stacked"
-        style = "border-0"
-        homepage = 3
+        style = "border-0 align-items-center justify-content-center"
+        homepage = 10
     [projects]
         title = "Projects"
         sort = "title"
@@ -56,7 +57,8 @@
         footer = "tags"
         orientation = "none"
         style = "border-1 card-emphasize"
-        homepage = 3
+        homepage = 0
+        hidden = true
 # toml-docs-end list
 
 [favicon]
@@ -76,8 +78,8 @@
 # toml-docs-end theme-colors
     themeOpacity = "10"
 # toml-docs-start font
-    themeFont = "Inter"
-    themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap"
+    themeFont = "Petrona"
+    themeFontPath = "https://fonts.googleapis.com/css2?family=Petrona:wght@200;300;600&display=swap"
 # toml-docs-end font
 
 [schema]

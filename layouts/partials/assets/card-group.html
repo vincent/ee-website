@@ -71,6 +71,7 @@
 {{- $moreURL := .href -}}
 {{- $moreTitle := .hrefTitle -}}
 
+{{- $home := .home -}}
 {{- $class := .class -}}
 {{- $color := .color -}}
 {{- $padding := .padding -}}
@@ -112,7 +113,7 @@
                 <div class="col pt-3 pb-3">
                     {{- partial "assets/card.html" (dict
                         "path" $element.File.Path
-                        "class" (printf "h-100 %s" $class)
+                        "class" (printf "h-100 flex-row %s" $class)
                         "color" $color
                         "padding" $padding
                         "header" $header

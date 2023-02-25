@@ -1,2 +1,13 @@
 // Placeholder to quickly add your own styles
 // The file is included last in the build pipeline
+
+:root, [data-bs-theme="light"] {
+    --bs-body-bg: rgb(251, 247, 244)
+}
+
+.w-30 { width: 30% }
+.w-40 { width: 40% }
+
+.list {
+    max-width: 1200px;
+}

@@ -21,6 +21,7 @@
 {{- $style := "" -}}
 {{- $homepage := 3 -}}
 {{- $background := "" -}}
+{{- $hidden := false -}}
 
 {{- with (index site.Params $section) -}}
     {{- with index . "title" }}{{ $title = . }}{{ end -}}
@@ -35,6 +36,7 @@
     {{- with index . "style" }}{{ $style = . }}{{ end -}}
     {{- with index . "homepage" }}{{ $homepage = . }}{{ end -}}
     {{- with index . "background" }}{{ $background = . }}{{ end -}}
+    {{- with index . "hidden" }}{{ $hidden = . }}{{ end -}}
 {{- end -}}
 
 {{- $list := where site.RegularPages "Type" "in" $section -}}
@@ -65,10 +67,12 @@
 {{- end -}}
 {{- if $reverse -}}{{- $list = $list.Reverse -}}{{ end -}}
 
-<div class="container-fluid flex-fill p-0{{ with $background }} bg-{{ . }}{{ end }}">
+{{- if not $hidden }}
+<div class="container-fluid flex-fill list p-0{{ with $background }} bg-{{ . }}{{ end }}">
     {{- partial "assets/card-group.html" (dict 
         "page" $page
         "list" $list
+        "home" $home
         "max" $max
         "cols" $cols
         "title" $title
@@ -84,3 +88,4 @@
         ) 
     -}}
 </div>
+{{ end -}}
