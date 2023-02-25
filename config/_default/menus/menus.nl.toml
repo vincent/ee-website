@@ -4,7 +4,7 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "Books"
   url = "/blog/"
   weight = 20
 
@@ -12,23 +12,6 @@
   name = "Projecten"
   url = "/projecten/"
   weight = 30
-
-[[main]]
-  name = "Voorbeeldproject"
-  url = "/nl/projecten/voorbeeldproject/"
-  parent = "Projecten"
-  weight = 1
-
-[[main]]
-  name = "Ander project"
-  url = "/nl/projecten/ander-project/"
-  parent = "Projecten"
-  weight = 2
-
-[[main]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 40
 
 [[social]]
   name = "LinkedIn"

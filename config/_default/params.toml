@@ -2,7 +2,7 @@
 [main]
     separator = "-"
     description = ""
-    enableDarkMode = true
+    enableDarkMode = false
 # toml-docs-end main
 
 # toml-docs-start docs
@@ -22,7 +22,7 @@
 
 # toml-docs-start navigation
 [navigation]
-    logo = "/img/logo_icon.svg"
+    logo = "/img/logo-round.png"
     color = "body"
     fixed = true
     offset = "4em"
@@ -47,7 +47,7 @@
         style = "border-0 align-items-center justify-content-center"
         homepage = 10
     [projects]
-        title = "Projects"
+        title = "Illustrations"
         sort = "title"
         reverse = false
         cols = 1
@@ -55,10 +55,9 @@
         padding = "3"
         header = "none"
         footer = "tags"
-        orientation = "none"
+        orientation = "stacked"
         style = "border-1 card-emphasize"
         homepage = 0
-        hidden = true
 # toml-docs-end list
 
 [favicon]

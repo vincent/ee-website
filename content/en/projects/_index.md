@@ -1,4 +1,4 @@
 ---
-author: Katheryn Fox
-title: Projects
+author: Elsa Sanchez
+title: Illustrations
 ---

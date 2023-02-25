@@ -8,7 +8,7 @@
 
     <body>
         <div class="d-flex flex-column min-vh-100{{ if and .IsHome .Site.Params.home.style }} {{ .Site.Params.home.style }}{{ end }}">
-            {{ if false -}}
+            {{ if true -}}
                 <div class="{{ if .Site.Params.navigation.fixed }}mb-4{{ end }}">
                     {{- partial "assets/navbar.html" (dict
                         "page" .
