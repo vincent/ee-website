@@ -2,7 +2,7 @@
 author: Mark Dumay
 title: Another project
 date: 2021-07-15
-description: Another project.
+description: Hey Another project.
 tags: ["blog"]
 thumbnail: img/coffee.jpg # https://picsum.photos/id/1060/5598/3732
 photoCredits: <a href="https://unsplash.com/@kfred">Karl Fredrickson</a>
