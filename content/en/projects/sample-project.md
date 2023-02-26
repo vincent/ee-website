@@ -1,9 +1,9 @@
 ---
-author: Hugo Authors
+author: Elsa Sanchez
 title: Sample project
 date: 2021-07-15
 description: A sample project.
-tags: ["blog","projects"]
+tags: ["books","projects"]
 thumbnail: img/laptop.jpg # https://picsum.photos/id/0/5616/3744
 photoCredits: <a href="https://unsplash.com/@alejandroescamilla">Alejandro Escamilla</a> 
 photoSource: <a href="https://unsplash.com/photos/yC-Yzbqy7PY">Unsplash</a>

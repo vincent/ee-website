@@ -1,9 +1,12 @@
 ---
-title: Soy y pertenezco
+author: Mark Dumay
+title: Derde artikel
 date: 2022-12-01
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh.
-tags: ["blog"]
-thumbnail: img/libros/SOY_Y_PERTENEZCO.t.png
+description: Dit is mijn derde artikel.
+tags: ["books"]
+thumbnail: https://picsum.photos/id/184/4288/2848.jpg
+photoCredits: <a href="https://unsplash.com/@timdegroot">Tim de Groot</a>
+photoSource: <a href="https://unsplash.com/photos/yNGQ830uFB4">Unsplash</a>
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in. Suspendisse sagittis eleifend dapibus. Curabitur dignissim luctus sapien eu consequat. Proin congue dui vel ipsum bibendum varius. Pellentesque cursus nisi metus, egestas eleifend ipsum sollicitudin vitae. Sed vitae erat elementum, semper turpis sed, molestie nulla.

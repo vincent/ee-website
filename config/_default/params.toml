@@ -13,7 +13,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["blog"]
+    sections = ["books"]
     featured = true
     featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
@@ -22,7 +22,7 @@
 
 # toml-docs-start navigation
 [navigation]
-    logo = "/img/logo-round.png"
+    logo = "img/logo-round.png"
     color = "body"
     fixed = true
     offset = "4em"
@@ -34,7 +34,7 @@
 
 # toml-docs-start list
 [list]
-    [blog]
+    [books]
         title = ""
         sort = "date"
         reverse = true
@@ -55,7 +55,7 @@
         padding = "3"
         header = "none"
         footer = "tags"
-        orientation = "stacked"
+        orientation = "horizontal"
         style = "border-1 card-emphasize"
         homepage = 0
 # toml-docs-end list
@@ -88,7 +88,7 @@
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     github = "https://github.com/gethinode/hinode"
-    section = "blog"
+    section = "books"
     [author]
         name = "Mark Dumay"
         # twitter = "https://twitter.com/markdumay"

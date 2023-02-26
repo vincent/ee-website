@@ -13,17 +13,17 @@
   translation: "Meer {{ . }}"
 - id: readMore
   translation: "Lees meer"
-- id: moreBlog
+- id: moreBooks
   translation: "Meer berichten"
-- id: olderBlog
+- id: olderBooks
   translation: "Oudere berichten"
-- id: recentBlog
+- id: recentBooks
   translation: "Recente berichten"
-- id: newerBlog
+- id: newerBooks
   translation: "Nieuwere berichten"
-- id: previousBlog
+- id: previousBooks
   translation: "Vorig bericht"
-- id: nextBlog
+- id: nextBooks
   translation: "Volgend bericht"
 - id: recentProjects
   translation: "Projecten"

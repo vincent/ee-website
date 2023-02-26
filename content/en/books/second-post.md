@@ -1,12 +1,9 @@
 ---
-author: Mark Dumay
-title: Tweede artikel
+title: Universo de valores
 date: 2022-11-01
-description: Dit is mijn tweede artikel.
-tags: ["blog"]
-thumbnail: img/phone.jpg # https://picsum.photos/id/160/3200/2119
-photoCredits: <a href="https://unsplash.com/@thomweerd">Thom</a> 
-photoSource: <a href="https://unsplash.com/photos/Zdcq3iKly6g">Unsplash</a>
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh.
+tags: ["books"]
+thumbnail: img/libros/UNIVERSO_DE_VALORES_w.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum. Vivamus dictum sem eu rhoncus semper. Vestibulum convallis congue tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris magna urna, egestas sit amet ligula quis, viverra semper arcu. Praesent laoreet nunc vitae nulla posuere facilisis.

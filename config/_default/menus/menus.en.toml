@@ -1,16 +1,16 @@
 [[main]]
   name = "About"
-  url = "/about/"
+  url = "about/"
   weight = 10
 
 [[main]]
   name = "Books"
-  url = "/blog/"
+  url = "books/"
   weight = 20
 
 [[main]]
   name = "Illustrations"
-  url = "/projects/"
+  url = "projects/"
   weight = 30
 
 [[social]]
@@ -33,8 +33,8 @@
 
 # toml-docs-start sample-navigation
 [[sample]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Books"
+  url = "/books/"
   weight = 10
 
 [[sample]]

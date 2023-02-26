@@ -59,11 +59,11 @@ Gebruik HTML code om een label toe te voegen aan een titel. De Bootstrap [docume
 
 ## Breadcrumb
 
-De volgende shortcode toont het navigatiepad voor de blog pagina.
+De volgende shortcode toont het navigatiepad voor de books pagina.
 
 <!-- markdownlint-disable MD037 -->
 {{< example lang="hugo" >}}
-{{</* breadcrumb path="blog" */>}}
+{{</* breadcrumb path="books" */>}}
 {{< /example >}}
 <!-- markdownlint-enable MD037 -->
 

@@ -8,7 +8,7 @@
     [en.params.head]
         tagline = "A Hugo Theme"
     [en.params.feature]
-        link = "/en/about"
+        link = "en/about"
         caption = "About"
     [en.params.footer]
         license = ""

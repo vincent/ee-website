@@ -1,7 +1,7 @@
 ---
 slug: over-mij
 title: Over mij
-description: Een blog en documentatie thema voor Hugo gebaseerd op Bootstrap 5.
+description: Een books en documentatie thema voor Hugo gebaseerd op Bootstrap 5.
 date: 2023-02-17
 showComments: false
 ---
@@ -45,5 +45,5 @@ Overige functies:
 
 Hinode is geinspireerd door de volgende thema's:
 
-* [Blist](https://github.com/apvarun/blist-hugo-theme) - een blog thema voor Hugo op basis van Tailwind CSS.
+* [Blist](https://github.com/apvarun/blist-hugo-theme) - een books thema voor Hugo op basis van Tailwind CSS.
 * [Doks](https://github.com/h-enk/doks) - een Hugo thema voor het bouwen van veilige, snelle, en SEO-geoptimaliseerde documentatiesites, die je eenvoudig kunt actualiseren en aanpassen.

@@ -96,7 +96,11 @@
         <!-- Insert the brand logo or name -->
         <a class="navbar-brand mx-auto" href="{{ site.Home.RelPermalink }}">
             {{- if $logo -}}
-                <img src="{{ $logo }}" alt="{{ $title }} logo" height="30">
+                {{ with resources.Get "img/favicon.png" }} 
+                    {{ $square70 := .Resize "70x70 CatmullRom" }} 
+                    <square70x70logo src="{{ $square70.Permalink }}" />
+                    <img src="{{ $square70.Permalink }}" alt="{{ $title }} logo" height="30">
+                {{- end -}}
                 <span class="d-none d-sm-inline d-md-none ms-3 fw-bold">{{ $title }}</span>
             {{- else -}}
                 <span class="fw-bold">{{ $title }}</span>
