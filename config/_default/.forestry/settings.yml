@@ -18,6 +18,20 @@ sections:
   match: "**/*"
   templates:
   - project
+- type: directory
+  path: content/es/libros
+  label: Libros
+  create: all
+  match: "**/*"
+  templates:
+  - books-post
+- type: directory
+  path: content/es/ilustraciones
+  label: Ilustraciones
+  create: all
+  match: "**/*"
+  templates:
+  - project
 - type: document
   path: content/en/about.md
   label: About

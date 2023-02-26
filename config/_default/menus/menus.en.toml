@@ -19,24 +19,7 @@
   url = "https://linkedin.com/"
   weight = 10
 
-[[social]]
-  name = "GitHub"
-  pre = "<i class=\"fab fa-github fa-2x\"></i>"
-  url = "https://github.com/"
-  weight = 20
-
-[[social]]
-  name = "Medium"
-  pre = "<i class=\"fab fa-medium fa-2x\"></i>"
-  url = "https://medium.com/"
-  weight = 30
-
 # toml-docs-start sample-navigation
-[[sample]]
-  name = "Books"
-  url = "/books/"
-  weight = 10
-
 [[sample]]
   name = "Projects"
   url = "/projects/"
@@ -47,10 +30,4 @@
   url = "/en/projects/sample-project/"
   parent = "Projects"
   weight = 1
-
-[[sample]]
-  name = "Another project"
-  url = "/en/projects/another-project/"
-  parent = "Projects"
-  weight = 2
 # toml-docs-end sample-navigation

@@ -1,0 +1,20 @@
+[[main]]
+  name = "Sobre mí"
+  url = "about/"
+  weight = 10
+
+[[main]]
+  name = "Libros"
+  url = "books/"
+  weight = 20
+
+[[main]]
+  name = "Ilustraciones"
+  url = "projects/"
+  weight = 30
+
+[[social]]
+  name = "LinkedIn"
+  pre = "<i class=\"fab fa-linkedin fa-2x\"></i>"
+  url = "https://linkedin.com/"
+  weight = 10

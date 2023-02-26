@@ -83,17 +83,17 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
+    name = "Elsa Sanchez"
     locale = "en-US"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    # github = "https://github.com/gethinode/hinode"
     section = "books"
     [author]
-        name = "Mark Dumay"
+        name = "Elsa Sanchez"
         # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        # linkedin = "https://www.linkedin.com/in/markdumay/"
+        instagram = "https://github.com/markdumay"
     [logo]
         url = "img/logo512x512.png"
         width = 512
@@ -106,22 +106,3 @@
 [opengraph]
     images = ["logo.png"]
     locale = "en_US"
-
-[comments]
-    enabled = false
-    repo = "" # Replace with your repository.
-    #issueTerm = "pathname" # pathname, url, title, og:title
-    #label = "comment"
-    # By default, light and dark mode correspond to github-light and github-dark, respectively.
-    # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
-    #theme = "" 
-
-[links]
-    bs_badge_heading = "https://getbootstrap.com/docs/5.2/components/badge/#headings"
-    hinode_docs = "https://gethinode.com/docs"
-    hugo_imaging = "https://gohugo.io/content-management/image-processing/#imaging-configuration"
-    mozilla_image = "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"
-    observatory = "https://observatory.mozilla.org/analyze/demo.gethinode.com"
-    pagespeed = "https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethinode.com%2F"
-    utterances = "https://utteranc.es"
- 
