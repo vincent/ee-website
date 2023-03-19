@@ -5,13 +5,13 @@ updated: 2023-02-11
 showComments: false
 ---
 
-Estudió Diseño Industrial en México y continuó sus estudios en Londres y en Barcelona. Actualmente es Ilustradora y colabora en proyectos dedicados a impulsar a las infancias a través del arte.
+She studied Industrial Design in Mexico and continued her studies in London and Barcelona. She is currently an illustrator and collaborates in projects dedicated to promoting children through art.
 <br>
 
-Su trabajo ha sido publicado en varias Editoriales y los libros en los que ha participado están enfocados a la gestión emocional, la salud mental y la crianza consciente. 
+Her work has been published in several publishing houses and the books she has participated in are focused on emotional management, mental health and conscious parenting.
 <br>
 
-Una de sus actividades favoritas: leer un cuento ilustrado antes de ir a dormir, y si se comparte ese momento ¡mejor!
+One of her favourite activities: reading an illustrated story before going to sleep, and if this moment is shared, all the better!
 <br>
 
-Un propósito: ayudar a que más niñas y niños descubran la magia de los álbumes ilustrados; en ellos encontré universos estimulantes, divertidos y a la vez sanadores.
+A purpose: to help more girls and boys discover the magic of picture books; in them I found stimulating, fun and at the same time healing universes.
