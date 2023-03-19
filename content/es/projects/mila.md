@@ -1,5 +1,5 @@
 ---
-author: Elsa Sanchez
+author: Elsa Sánchez
 title: Mila
 date: 2021-07-15
 description: Mila is a beautiful little mermaid and a bit shy.

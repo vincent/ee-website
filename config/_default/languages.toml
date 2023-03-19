@@ -6,7 +6,7 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
-        tagline = "Elsa Sanchez"
+        tagline = "Elsa Sánchez"
     [en.params.feature]
         link = "en/about"
         caption = "About"
@@ -21,7 +21,7 @@
     contentDir = "content/es"
     weight = 2
     [es.params.head]
-        tagline = "Elsa Sanchez"
+        tagline = "Elsa Sánchez"
     [es.params.feature]
         link = "es/about"
         caption = "Sobre mí"

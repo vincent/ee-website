@@ -1,4 +1,4 @@
 ---
-author: Elsa Sanchez
+author: Elsa Sánchez
 title: Libros
 ---

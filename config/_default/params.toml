@@ -83,14 +83,14 @@
 
 [schema]
     type = "Organization"
-    name = "Elsa Sanchez"
+    name = "Elsa Sánchez"
     locale = "en-US"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     # github = "https://github.com/gethinode/hinode"
     section = "books"
     [author]
-        name = "Elsa Sanchez"
+        name = "Elsa Sánchez"
         # twitter = "https://twitter.com/markdumay"
         # linkedin = "https://www.linkedin.com/in/markdumay/"
         instagram = "https://github.com/markdumay"

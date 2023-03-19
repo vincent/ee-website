@@ -1,5 +1,5 @@
 ---
-title: Elsa Sanchez
+title: Elsa Sánchez
 ---
 
 Ilustradora
