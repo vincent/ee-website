@@ -14,7 +14,7 @@
 -->
 
 
-{{- $validRatios := slice "1x1" "4x3" "16x9" "21x9" }}
+{{- $validRatios := slice "1x1" "4x3" "16x9" "21x9" "194x100" }}
 {{ $ratio := .ratio -}}
 {{ $url := .url -}}
 {{ $outerClass := .outerClass -}}
@@ -39,7 +39,7 @@
     {{ else if eq $ratio "1x1" -}}
         {{ $smDim = "576x576" -}}
         {{ $mdDim = "768x768" -}}
-        {{ $lgDim = "992x992" -}}
+        {{ $lgDim = "992x992" -}}   1,9405320814
         {{ $xlDim = "1200x1200" -}}
         {{ $xxlDim = "1400x1400" -}}
     {{ else if eq $ratio "16x9" -}}
@@ -54,6 +54,12 @@
         {{ $lgDim = "992x425" -}}
         {{ $xlDim = "1200x514" -}}
         {{ $xxlDim = "1400x600" -}}
+    {{ else if eq $ratio "100x194" -}}
+        {{ $smDim = "496x256" -}}
+        {{ $mdDim = "744x383" -}}
+        {{ $lgDim = "992x511" -}}
+        {{ $xlDim = "1240x639" -}}
+        {{ $xxlDim = "2480x1278" -}}
     {{ else }}
         {{ $smDim = printf "576x%d" (int (math.Round (mul (div 576.0 $img.Width) $img.Height))) -}}
         {{ $mdDim = printf "768x%d" (int (math.Round (mul (div 768.0 $img.Width) $img.Height))) -}}

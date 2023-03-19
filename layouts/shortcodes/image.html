@@ -13,7 +13,7 @@
 
 {{- if isset .Params "src" -}}
     {{ $url := .Get "src" -}}
-    {{- $validRatios := slice "1x1" "4x3" "16x9" "21x9" -}}
+    {{- $validRatios := slice "1x1" "4x3" "16x9" "21x9" "194x100" -}}
     {{ $ratio := .Get "ratio" -}}
     {{ if $ratio -}}
         {{ if not (in $validRatios $ratio) -}}
