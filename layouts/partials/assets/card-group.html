@@ -97,11 +97,6 @@
                         )
                     -}}
                 </div>
-                {{- if (lt $index (sub $max 1)) -}}
-                    <div class="col d-block d-sm-none">
-                        <hr>
-                    </div>
-                {{- end -}}
             {{ end }}
         </div>
         {{- if gt $paginator.TotalPages 1 -}}
@@ -122,11 +117,6 @@
                         )
                     -}}
                 </div>
-                {{- if (lt $index (sub $max 1)) -}}
-                    <div class="col d-block d-sm-none">
-                        <hr>
-                    </div>
-                {{- end -}}
             {{ end }}
         </div>
         {{ if gt $count $max }}
