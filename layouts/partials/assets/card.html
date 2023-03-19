@@ -164,7 +164,7 @@
     <div class="card {{ with $color }}bg-{{ . }} text-bg-{{ . }}{{ end }} {{ $class }}">
         {{- if $thumbnail -}}
             <a class="w-100 d-flex justify-content-end" href="{{ $href }}">
-                {{- partial "image.html" (dict "url" $thumbnail "outerClass" "card-img-wrap" "innerClass" "card-img-top" "title" $title) -}}
+                {{- partial "image.html" (dict "url" $thumbnail "outerClass" "card-img-wrap" "innerClass" "card-img-top card-img-bottom" "title" $title) -}}
             </a>
         {{- else if $icon -}}
             <div class="pt-{{ $padding }} ps-{{ $padding }} pe-{{ $padding }}">
