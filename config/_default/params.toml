@@ -15,7 +15,7 @@
 [home]
     sections = ["books"]
     featured = true
-    featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
+    featurePhoto = "/img/mila.jpg"
     fullCover = false
     style = ""
 # toml-docs-end home
@@ -93,7 +93,7 @@
         name = "Elsa Sánchez"
         # twitter = "https://twitter.com/markdumay"
         # linkedin = "https://www.linkedin.com/in/markdumay/"
-        instagram = "https://github.com/markdumay"
+        # instagram = "https://github.com/markdumay"
     [logo]
         url = "img/logo512x512.png"
         width = 512
