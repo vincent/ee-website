@@ -6,7 +6,7 @@ enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-baseURL = "https://vincent.github.io/ee-website"
+baseURL = "https://www.elsaestudio.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
