@@ -1,9 +1,12 @@
 ---
 title: Soy y pertenezco
 date: 2022-11-04
-description: Immu is very curious and has many questions about the world around her.
+description: Inmu es muy curiosa y tiene muchas preguntas sobre el mundo que la rodea.
 tags: ["books"]
 thumbnail: img/libros/4_Book_Soy y Pertenezco.jpg
+text_author: Paulina Seguí, Paulina Vargas
 ---
 
-Immu is very curious and has many questions about the world around her. Her twin sister Conti knows a lot of things and answers many questions. Together with her friend Dendrite, they will get to know the outside world and its resemblance to the inner world. Join them in their questioning and discoveries.
+Inmu es muy curiosa y tiene muchas preguntas sobre el mundo que la rodea. 
+Su hermana gemela Conti sabe muchas cosas y responde a numerosas preguntas. Junto con su amiga Dendrita, conocerán el mundo exterior y su parecido con el mundo interior.
+¡Acompáñalas en sus preguntas y descubrimientos!

@@ -127,3 +127,7 @@
 # Draft
 - id: draft
   translation: "Draft"
+
+# Authors
+- id: authors
+  translation: "Authors"

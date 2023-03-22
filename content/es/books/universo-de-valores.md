@@ -1,9 +1,11 @@
 ---
 title: Universo de valores
 date: 2022-11-05
-description: The Universe of Values is a story for adults and children that introduces education in values from 5 years old.
+description: Sol y Luna son dos hermanitos que viajan a través de una Galaxia en la que los planetas y los satélites se han convertido en Valores.
 tags: ["books"]
 thumbnail: img/libros/5_Book_El Universo de Valores.jpg
+text_author: Victoria Usabal
 ---
 
-The Universe of Values is a story for adults and children that introduces education in values from 5 years old. Sol and Luna are two little brothers who travel through a wonderful galaxy, where planets and satellites have become values. An exciting story full of meaning and significance.
+Sol y Luna son dos hermanitos que viajan a través de una Galaxia en la que los planetas y los satélites se han convertido en Valores. En cada planeta o satélite que visitan se encuentran con “Marcianita”, un ser que les compartirá algo acerca de cómo se vive en ese lugar.
+Este es un viaje apasionante para las infancias y sus cuidadores, una historia llena de sentido y significado que en cualquiera de sus rutas nos conduce al amor.

@@ -6,6 +6,9 @@ fields:
   name: author
   label: author
 - type: text
+  name: text_author
+  label: authors
+- type: text
   name: title
   label: title
 - type: text

@@ -36,6 +36,11 @@
         <div class="mt-5">
             {{ .Content }}
         </div>
+        {{ with .Params.text_author -}}
+            <div class="mt-5 authors text-muted">
+                {{ i18n "authors" }}: <span class="font-monospace">{{ . }}</span>
+            </div>
+        {{ end -}}
 {{ end }}
 {{ end -}}
 
