@@ -13,9 +13,9 @@
 
 # toml-docs-start home
 [home]
-    sections = ["books"]
+    sections = ["projects"]
     featured = true
-    featurePhoto = "/img/mila.jpg"
+    featurePhoto = "/img/elsa.jpg"
     fullCover = false
     style = ""
 # toml-docs-end home
@@ -45,19 +45,19 @@
         footer = "none"
         orientation = "stacked"
         style = "border-0 align-items-center justify-content-center"
-        homepage = 10
+        homepage = 0
     [projects]
-        title = "Illustrations"
-        sort = "title"
-        reverse = false
+        title = ""
+        sort = "date"
+        reverse = true
         cols = 1
         color = ""
-        padding = "3"
-        header = "none"
-        footer = "tags"
-        orientation = "horizontal"
-        style = "border-1 card-emphasize"
-        homepage = 0
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 align-items-center justify-content-center"
+        homepage = 10
 # toml-docs-end list
 
 [favicon]

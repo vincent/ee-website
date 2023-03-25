@@ -9,7 +9,7 @@
         tagline = "Elsa Sánchez"
     [en.params.feature]
         link = "en/about"
-        caption = "About"
+        caption = "About me"
     [en.params.footer]
         license = ""
         socialTitle = "Follow me"

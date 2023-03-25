@@ -18,6 +18,7 @@
     "thumbnail"     Optional thumbnail image url, displayed on top or the left of the card.
     "icon"          Optional Font Awesome icon, displayed on top or the left of the card.
     "orientation"   Optional placecement of the thumbnail, either "stacked" (default), "horizontal", or "none".
+    "xxl"           Show the title in an xxl -onlyblock
 -->
 
 <!-- Inline partial to render the card's body -->
@@ -79,6 +80,7 @@
 {{- $description := .description -}}
 {{- $thumbnail := .thumbnail -}}
 {{- $icon := .icon -}}
+{{- $xxl := .xxl -}}
 
 {{- $color := "" -}}
 {{- with .color }}{{ $color = . }}{{ end -}}
@@ -173,7 +175,7 @@
                 </a>
             </div>
         {{- end -}}
-        {{ if true }}
+        {{ if $description }}
             <div class="d-none d-xxl-block w-50 ms-3 me-5">
                 <div class="card-body d-flex flex-column p-{{ $padding }}">
                     {{- partial "card-caption.html" (dict "page" $page "keywords" $header "color" $color) -}} 

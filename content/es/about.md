@@ -5,13 +5,16 @@ updated: 2023-02-11
 showComments: false
 ---
 
-Estudió Diseño Industrial en México y continuó sus estudios en Londres y en Barcelona. Actualmente es Ilustradora y colabora en proyectos dedicados a impulsar a las infancias a través del arte.
+Licenciada en Diseño Industrial por el TEC de Monterrey CDMX, realizó sus estudios de posgrado en Central Saint Martins - University of the Arts London (Presentación Visual) y en el Instituto Europeo de Diseño de Barcelona (Arquitectura Efímera).
 <br>
 
-Su trabajo ha sido publicado en varias Editoriales y los libros en los que ha participado están enfocados a la gestión emocional, la salud mental y la crianza consciente. 
+Posteriormente, su interés por la literatura infantil y los procesos artísticos para crear un álbum ilustrado, la motivaron a tomar un curso de "Diseño de Personajes" impartido por la Ilustradora Valeria Gallo en IBBY México y un Taller intensivo de Ilustración titulado "Emociones, Personajes y Espacios" dirigido por la Ilustradora Rebeca Luciani en Barcelona.
 <br>
 
-Una de sus actividades favoritas: leer un cuento ilustrado antes de ir a dormir, y si se comparte ese momento ¡mejor!
+Actualmente ha publicado varios libros infantiles con diversas editoriales en México y España.
 <br>
 
-Un propósito: ayudar a que más niñas y niños descubran la magia de los álbumes ilustrados; en ellos encontré universos estimulantes, divertidos y a la vez sanadores.
+Los libros que ha ilustrado están vinculados a temas como la inteligencia emocional, la crianza consciente, la salud mental y la divulgación científica.
+<br>
+
+La desigualdad y los derechos de la infancia centran sus próximos proyectos.

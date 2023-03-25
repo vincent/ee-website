@@ -38,7 +38,7 @@
         </div>
         {{ with .Params.text_author -}}
             <div class="mt-5 authors text-muted">
-                {{ i18n "authors" }}: <span class="font-monospace">{{ . }}</span>
+                {{ i18n "authors" }}: {{ . }}
             </div>
         {{ end -}}
 {{ end }}

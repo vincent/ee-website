@@ -8,10 +8,10 @@
   url = "books/"
   weight = 20
 
-[[main]]
-  name = "Ilustraciones"
-  url = "projects/"
-  weight = 30
+#[[main]]
+#  name = "Ilustraciones"
+#  url = "projects/"
+#  weight = 30
 
 [[social]]
   name = "LinkedIn"

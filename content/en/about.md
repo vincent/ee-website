@@ -5,13 +5,16 @@ updated: 2023-02-11
 showComments: false
 ---
 
-She studied Industrial Design in Mexico and continued her studies in London and Barcelona. She is currently an illustrator and collaborates in projects dedicated to promoting children through art.
+Graduated in Industrial Design at TEC de Monterrey CDMX, she did her postgraduate studies at Central Saint Martins - University of the Arts London (Visual Presentation) and at the European Institute of Design in Barcelona (Ephemeral Architecture).
 <br>
 
-Her work has been published in several publishing houses and the books she has participated in are focused on emotional management, mental health and conscious parenting.
+Later, her interest in children's literature and the artistic processes to create an illustrated album, motivated her to take a course in "Character Design" taught by the Illustrator Valeria Gallo at IBBY Mexico and an intensive Illustration Workshop entitled "Emotions, Characters and Spaces" led by the Illustrator Rebeca Luciani in Barcelona.
 <br>
 
-One of her favourite activities: reading an illustrated story before going to sleep, and if this moment is shared, all the better!
+Currently she has published several children's books with various publishers in Mexico and Spain.
 <br>
 
-A purpose: to help more girls and boys discover the magic of picture books; in them I found stimulating, fun and at the same time healing universes.
+The books she has illustrated are linked to topics such as emotional intelligence, conscious upbringing, mental health and scientific dissemination.
+<br>
+
+Inequality and children's rights are the focus of her next projects.
