@@ -112,6 +112,12 @@
     {{- if not $icon }}{{ $icon = .Params.icon }}{{ end -}}
 {{- end -}}
 
+{{- $anchor := "" -}}
+{{- if .home }}
+    {{- $href = replace (printf "#%s" $page.File.BaseFileName) "/" "." -}}
+    {{- $anchor = replace $href "#" "" -}}
+{{- end }}
+
 {{- if not $href -}}
     {{- errorf "Missing value for param 'href'" -}}
 {{- end -}}
@@ -137,6 +143,7 @@
 
 {{- else if eq $orientation "horizontal" -}}
     <div class="card mb-3 {{ with $color }}bg-{{ . }} text-bg-{{ . }}{{ end }} {{ $class }}">
+        <a name="{{ $anchor }}">
         <div class="row g-0">
             <div class="col-4">
                 {{- if $thumbnail -}}
@@ -164,6 +171,7 @@
     </div>
 {{- else -}}
     <div class="card {{ with $color }}bg-{{ . }} text-bg-{{ . }}{{ end }} {{ $class }}">
+        <a name="{{ $anchor }}">
         {{- if $thumbnail -}}
             <a class="w-100 d-flex justify-content-end" href="{{ $href }}">
                 {{- partial "image.html" (dict "url" $thumbnail "outerClass" "card-img-wrap" "innerClass" "card-img-top card-img-bottom" "title" $title) -}}

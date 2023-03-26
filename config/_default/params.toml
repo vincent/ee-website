@@ -15,7 +15,7 @@
 [home]
     sections = ["projects"]
     featured = true
-    featurePhoto = "/img/elsa.jpg"
+    # featurePhoto = "/img/elsa.jpg"
     fullCover = false
     style = ""
 # toml-docs-end home
@@ -57,7 +57,7 @@
         footer = "none"
         orientation = "stacked"
         style = "border-0 align-items-center justify-content-center"
-        homepage = 10
+        homepage = 100
 # toml-docs-end list
 
 [favicon]
