@@ -1,7 +1,7 @@
 ---
 author: Elsa Sánchez
 title:
-date: 2020-05-08
+date: 2020-04-20
 tags: ["projects"]
-thumbnail: img/illus/TEXTURAS.jpg
+thumbnail: img/illus/Home_Pozole.jpg
 ---

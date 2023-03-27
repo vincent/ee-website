@@ -3,6 +3,7 @@ title: Elsa Sánchez
 date: 2022-04-11
 updated: 2023-02-11
 showComments: false
+thumbnail: img/illus/TEXTURAS.jpg
 ---
 
 Graduated in Industrial Design at TEC de Monterrey CDMX, she did her postgraduate studies at Central Saint Martins - University of the Arts London (Visual Presentation) and at the European Institute of Design in Barcelona (Ephemeral Architecture).

@@ -3,6 +3,7 @@ title: Elsa Sánchez
 date: 2022-04-11
 updated: 2023-02-11
 showComments: false
+thumbnail: img/illus/TEXTURAS.jpg
 ---
 
 Licenciada en Diseño Industrial por el TEC de Monterrey CDMX, realizó sus estudios de posgrado en Central Saint Martins - University of the Arts London (Presentación Visual) y en el Instituto Europeo de Diseño de Barcelona (Arquitectura Efímera).
