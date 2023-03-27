@@ -1,5 +1,5 @@
 ---
-title: Soy y pertenezco
+title: Soy y Pertenezco
 date: 2022-11-04
 description: Inmu es muy curiosa y tiene muchas preguntas sobre el mundo que la rodea.
 tags: ["books"]

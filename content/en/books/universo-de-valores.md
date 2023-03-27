@@ -1,5 +1,5 @@
 ---
-title: Universo de valores
+title: El Universo de Valores
 date: 2022-11-05
 description: Sol and Luna are two little brothers who travel through a Galaxy where the planets and satellites have become Values.
 tags: ["books"]

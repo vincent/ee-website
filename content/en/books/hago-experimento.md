@@ -1,6 +1,6 @@
 ---
 title: Hago y Experimento
-date: 2022-11-02
+date: 2022-01-02
 description: Immu and Conti went with their twin friends Mune and Tire to the Lacandon Jungle.
 tags: ["books"]
 thumbnail: img/libros/2_Book_Hago y Experimento.jpg

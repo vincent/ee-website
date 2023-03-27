@@ -1,5 +1,5 @@
 ---
-title: Mi lugar favorito
+title: Mi Lugar Favorito
 date: 2022-11-08
 description: What do you imagine when I ask you to think of an amazing place ?
 tags: ["books"]

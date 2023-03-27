@@ -1,5 +1,5 @@
 ---
-title: Los frascos de los recuerdos
+title: Los Frascos de los Recuerdos
 date: 2022-11-06
 description: Nina se da cuenta de que podemos olvidar cosas insignificantes y cosas muy importantes.
 tags: ["books"]

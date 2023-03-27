@@ -1,5 +1,5 @@
 ---
-title: Soy y pertenezco
+title: Soy y Pertenezco
 date: 2022-11-04
 description: Immu is very curious and has many questions about the world around her.
 tags: ["books"]

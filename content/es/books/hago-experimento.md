@@ -1,6 +1,6 @@
 ---
 title: Hago y Experimento
-date: 2022-11-02
+date: 2022-01-02
 description: Inmu y Conti fueron junto con sus amigos gemelos Mune y Tire a conocer la Selva Lacandona.
 tags: ["books"]
 thumbnail: img/libros/2_Book_Hago y Experimento.jpg
