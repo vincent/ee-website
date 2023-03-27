@@ -29,3 +29,14 @@
         }
     }
 }
+
+.w-100 iframe {
+    min-width: 350px;
+    min-height: 250px;
+}
+@media (min-width: 768px) {
+    .w-100 iframe {
+        min-width: 640px;
+        min-height: 480px;
+    }    
+}

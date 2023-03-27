@@ -9,3 +9,5 @@ text_author: Victoria Usabal
 
 Sol y Luna son dos hermanitos que viajan a través de una Galaxia en la que los planetas y los satélites se han convertido en Valores. En cada planeta o satélite que visitan se encuentran con “Marcianita”, un ser que les compartirá algo acerca de cómo se vive en ese lugar.
 Este es un viaje apasionante para las infancias y sus cuidadores, una historia llena de sentido y significado que en cualquiera de sus rutas nos conduce al amor.
+
+{{< youtube O8ixZHGIDRs "w-100 text-center" >}}
