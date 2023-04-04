@@ -95,14 +95,14 @@
         # linkedin = "https://www.linkedin.com/in/markdumay/"
         # instagram = "https://github.com/markdumay"
     [logo]
-        url = "img/logo512x512.png"
-        width = 512
-        height = 512
+        url = "img/ELSA_ESTUDIO.jpg"
+        width = 320
+        height = 568
     [image]
-        url = "img/logo1280x640.png"
-        width = 1280
-        height = 640
+        url = "img/ELSA_ESTUDIO.jpg"
+        width = 320
+        height = 568
 
 [opengraph]
-    images = ["logo.png"]
-    locale = "en_US"
+    images = ["img/ELSA_ESTUDIO.jpg"]
+    locale = "es_ES"

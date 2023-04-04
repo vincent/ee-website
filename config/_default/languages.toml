@@ -8,7 +8,7 @@
     [en.params.head]
         tagline = "Elsa Sánchez"
     [en.params.feature]
-        link = "en/about"
+        link = "/en/about"
         caption = "About me"
     [en.params.footer]
         license = ""
@@ -23,7 +23,7 @@
     [es.params.head]
         tagline = "Elsa Sánchez"
     [es.params.feature]
-        link = "es/about"
+        link = "/es/about"
         caption = "Sobre mí"
     [es.params.footer]
         license = ""

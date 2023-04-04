@@ -6,16 +6,12 @@ showComments: false
 thumbnail: img/illus/TEXTURAS.jpg
 ---
 
-Licenciada en Diseño Industrial por el TEC de Monterrey CDMX, realizó sus estudios de posgrado en Central Saint Martins - University of the Arts London (Presentación Visual) y en el Instituto Europeo de Diseño de Barcelona (Arquitectura Efímera).
-<br>
-
-Posteriormente, su interés por la literatura infantil y los procesos artísticos para crear un álbum ilustrado, la motivaron a tomar un curso de "Diseño de Personajes" impartido por la Ilustradora Valeria Gallo en IBBY México y un Taller intensivo de Ilustración titulado "Emociones, Personajes y Espacios" dirigido por la Ilustradora Rebeca Luciani en Barcelona.
-<br>
-
-Actualmente ha publicado varios libros infantiles con diversas editoriales en México y España.
-<br>
-
-Los libros que ha ilustrado están vinculados a temas como la inteligencia emocional, la crianza consciente, la salud mental y la divulgación científica.
-<br>
-
-La desigualdad y los derechos de la infancia centran sus próximos proyectos.
+Estudió Diseño Industrial en la Ciudad de México y continuó sus estudios especializándose en Diseño de Espacios, Presentación Visual y Arquitectura Efímera en Londres y Barcelona.
+<br><br>
+Su carrera profesional comenzó en el sector del Diseño de espacios comerciales, sin embargo a partir del 2015, fruto de su interés en otros procesos creativos y el reencuentro con su pasión por el dibujo y el arte, comenzó a explorar el mundo de la Ilustración dentro de la Literatura Infantil.
+<br><br>
+Desde su incursión en la Ilustración, ha colaborado en la realización de libros infantiles que han publicado varias Editoriales de México y España, álbumes ilustrados que abordan temas como la inteligencia emocional, la salud mental, la crianza consciente y la divulgación científica.
+<br><br>
+Los proyectos en los que actualmente está trabajando abordan algunos de los temas que más le interesan: la desigualdad y los derechos de las infancias.
+<br><br>
+Actualmente vive en Barcelona y trabaja para México y España.

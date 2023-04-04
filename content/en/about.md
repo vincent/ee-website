@@ -6,16 +6,12 @@ showComments: false
 thumbnail: img/illus/TEXTURAS.jpg
 ---
 
-Graduated in Industrial Design at TEC de Monterrey CDMX, she did her postgraduate studies at Central Saint Martins - University of the Arts London (Visual Presentation) and at the European Institute of Design in Barcelona (Ephemeral Architecture).
-<br>
-
-Later, her interest in children's literature and the artistic processes to create an illustrated album, motivated her to take a course in "Character Design" taught by the Illustrator Valeria Gallo at IBBY Mexico and an intensive Illustration Workshop entitled "Emotions, Characters and Spaces" led by the Illustrator Rebeca Luciani in Barcelona.
-<br>
-
-Currently she has published several children's books with various publishers in Mexico and Spain.
-<br>
-
-The books she has illustrated are linked to topics such as emotional intelligence, conscious upbringing, mental health and scientific dissemination.
-<br>
-
-Inequality and children's rights are the focus of her next projects.
+She studied Industrial Design in Mexico City and continued her studies specialising in Visual Merchandising and Ephemeral Architecture in London and Barcelona. 
+<br><br>
+Her professional career began in the field of Retail Design, however from 2015, as a result of her interest in other creative processes and the reencounter with her passion for drawing and art, she began to explore the world of Illustration within Children's Literature.
+<br><br>
+Since her foray into illustration, she has collaborated in the creation of children's books published by various publishers in Mexico and Spain, illustrated albums that address issues such as emotional intelligence, mental health, conscious parenting and scientific dissemination.
+<br><br>
+Recently, the projects she is planning involve some of the issues she is most interested in, such as inequality and children's rights.
+<br><br>
+She currently lives in Barcelona and works for Mexico and Spain. 
