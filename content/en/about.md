@@ -3,7 +3,7 @@ title: Elsa Sánchez
 date: 2022-04-11
 updated: 2023-02-11
 showComments: false
-thumbnail: img/illus/TEXTURAS.jpg
+thumbnail: img/illus/Home_Mila_Feliz.jpg
 ---
 
 She studied Industrial Design in Mexico City and continued her studies specialising in Visual Merchandising and Ephemeral Architecture in London and Barcelona. 

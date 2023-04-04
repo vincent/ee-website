@@ -3,7 +3,7 @@ title: Elsa Sánchez
 date: 2022-04-11
 updated: 2023-02-11
 showComments: false
-thumbnail: img/illus/TEXTURAS.jpg
+thumbnail: img/illus/Home_Mila_Feliz.jpg
 ---
 
 Estudió Diseño Industrial en la Ciudad de México y continuó sus estudios especializándose en Diseño de Espacios, Presentación Visual y Arquitectura Efímera en Londres y Barcelona.

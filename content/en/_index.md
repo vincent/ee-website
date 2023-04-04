@@ -2,4 +2,4 @@
 title: Elsa Sánchez
 ---
 
-Ilustradora
+Ilustrator
