@@ -84,7 +84,7 @@
 [schema]
     type = "Organization"
     name = "Elsa Sánchez"
-    locale = "en-US"
+    locale = "es-ES"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     # github = "https://github.com/gethinode/hinode"
@@ -104,5 +104,5 @@
         height = 568
 
 [opengraph]
-    images = ["img/ELSA_ESTUDIO.jpg"]
+    images = ["/img/illus/Home_Microscopio_Acuarelas_hu970e2ced7039d7aab533df92079c4833_815246_1400x1050_fit_q75_box.jpg"]
     locale = "es_ES"
