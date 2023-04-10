@@ -17,13 +17,12 @@ Recently, the projects she is planning involve some of the issues she is most in
 She currently lives in Barcelona and works for Mexico and Spain. 
 <br><br>
 
-<div class="text-center mb-5 featured-content">
-    <div>
-        Contact me at <a href="maito:hello@elsaestudio.com">hello@elsaestudio.com</a>
+<div class="text-center mb-5 mt-4">
+    <div class="h2 mb-3">Contact</div>
+    <div class="featured-content mb-2">
+        <a href="maito:hello@elsaestudio.com">hello@elsaestudio.com</a>
     </div>
     <div>
-        <a href="//instagram.com/elsa_estudio"><i class="fa-brands fa-instagram"></i> elsa_estudio</a>
+        <a class="ms-2 ig" href="//instagram.com/elsa_estudio"><i class="fa-brands fa-instagram"></i></a>
     </div>
 </div>
-
-{{<image src="img/illus/Home_Texturas.jpg" alt="Elsa Sánchez">}}

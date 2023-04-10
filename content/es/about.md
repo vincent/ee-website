@@ -17,13 +17,12 @@ Los proyectos en los que actualmente está trabajando abordan algunos de los tem
 Actualmente vive en Barcelona y trabaja para México y España.
 <br><br>
 
-<div class="text-center mb-5">
-    <div>
-        Contact me at <a href="maito:hello@elsaestudio.com">hello@elsaestudio.com</a>
+<div class="text-center mb-5 mt-4">
+    <div class="h2 mb-3">Contacto</div>
+    <div class="featured-content mb-2">
+        <a href="maito:hello@elsaestudio.com">hello@elsaestudio.com</a>
     </div>
     <div>
-        on Instagram <a href="//instagram.com/elsa_estudio">@elsa_estudio</a>
+        <a class="ms-2 ig" href="//instagram.com/elsa_estudio"><i class="fa-brands fa-instagram"></i></a>
     </div>
 </div>
-
-{{<image src="img/illus/Home_Texturas.jpg" alt="Elsa Sánchez">}}
