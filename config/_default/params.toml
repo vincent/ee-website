@@ -83,7 +83,7 @@
 
 [schema]
     type = "Organization"
-    name = "Elsa Sánchez"
+    name = "Children's book illustrator"
     locale = "es-ES"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
