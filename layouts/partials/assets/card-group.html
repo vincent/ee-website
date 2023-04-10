@@ -85,7 +85,7 @@
         <div class="row {{ $colGrid }}">
             {{ $paginator := $page.Paginate $list }}
             {{ range $index, $element := first $paginator.PageSize (after (mul (sub $paginator.PageNumber 1) $paginator.PageSize) $list) }}
-                <div class="col pt-3">
+                <div class="col pt-4">
                     {{- partial "assets/card.html" (dict
                         "path" $element.File.Path
                         "class" (printf " %s" $class)
@@ -106,7 +106,7 @@
     {{ else }}
         <div class="row {{ $colGrid }}">
             {{ range $index, $element := $list }}
-                <div class="col pt-3">
+                <div class="col pt-4">
                     {{- partial "assets/card.html" (dict
                         "path" $element.File.Path
                         "class" (printf "h-100 flex-row %s" $class)

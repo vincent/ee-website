@@ -6,6 +6,10 @@
     --bs-bg-opacity: 0;
 }
 
+* {
+    --bs-dropdown-link-active-bg: #c019c6;
+}
+
 .w-30 { width: 30% }
 .w-40 { width: 40% }
 
@@ -14,7 +18,7 @@
 }
 
 .navbar {
-    box-shadow: 0px -3px 4px 2px #555;
+    box-shadow: none;
 }
 @media (max-width: 768px) {
     .navbar-collapse {
@@ -43,4 +47,11 @@
 
 .featured-content a {
     color: black;
+}
+
+.navbar  .ig {
+    font-size: 35px;
+    padding-top: 0px;
+    color: #c019c6;
+    margin-bottom: -8px;
 }

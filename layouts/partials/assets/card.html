@@ -173,7 +173,7 @@
     <div class="card {{ with $color }}bg-{{ . }} text-bg-{{ . }}{{ end }} {{ $class }}">
         <a name="{{ $anchor }}">
         {{- if $thumbnail -}}
-            <a class="w-100 d-flex justify-content-end" href="{{ $href }}">
+            <a class="w-100 d-flex justify-content-center" href="{{ $href }}">
                 {{- partial "image.html" (dict "url" $thumbnail "outerClass" "card-img-wrap" "innerClass" "card-img-top card-img-bottom" "title" $title) -}}
             </a>
         {{- else if $icon -}}
@@ -184,7 +184,7 @@
             </div>
         {{- end -}}
         {{ if $description }}
-            <div class="d-none d-xxl-block w-50 ms-3 me-5">
+            <div class="d-none ddd-xxl-block w-50 ms-3 me-5">
                 <div class="card-body d-flex flex-column p-{{ $padding }}">
                     {{- partial "card-caption.html" (dict "page" $page "keywords" $header "color" $color) -}} 
                     {{- partial "card-body.html" (dict "title" $title "href" $href "color" $color "description" $description) -}}
