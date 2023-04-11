@@ -99,7 +99,7 @@
                 {{ with resources.Get "img/favicon.png" }} 
                     {{ $square70 := .Resize "70x70 CatmullRom" }} 
                     <square70x70logo src="{{ $square70.Permalink }}" />
-                    <img src="{{ $square70.Permalink }}" alt="{{ $title }} logo" height="30">
+                    <img class="rounded" src="{{ $square70.Permalink }}" alt="{{ $title }} logo" height="30">
                 {{- end -}}
                 <span class="d-none d-sm-inline d-md-none ms-3 fw-bold">{{ $title }}</span>
                 <!-- <a class="ms-2 ig" href="//instagram.com/elsa_estudio"><i class="fa-brands fa-instagram"></i></a> -->

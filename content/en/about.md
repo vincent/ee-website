@@ -17,6 +17,8 @@ Recently, the projects she is planning involve some of the issues she is most in
 She currently lives in Barcelona and works for Mexico and Spain. 
 <br><br>
 
+{{<image class="rounded" src="img/illus/Elsa_Talleres_1.jpg" alt="Talleres">}}
+
 <div class="text-center mb-5 mt-4">
     <div class="h2 mb-3">Contact</div>
     <div class="featured-content mb-2">

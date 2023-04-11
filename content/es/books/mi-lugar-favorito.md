@@ -11,4 +11,6 @@ text_author: Paulina Vargas
 ¿Qué pensarías si te digo que ese lugar es todo tuyo, que lo puedes construir y transformar a tu antojo?<br>
 Tal vez es un lugar que tienes un poco olvidado… bastará con visitarlo de nuevo para que también se convierta en tu lugar favorito.
 
-{{<image src="img/libros/8_Book_Mi Lugar Favorito.jpg" alt="Mi Lugar Favorito">}}
+{{<image class="rounded" src="img/libros/8_Book_Mi Lugar Favorito.jpg" alt="Mi Lugar Favorito">}}
+<br>
+{{<image class="rounded" src="img/libros/Books_Elsa_Mi Lugar Favorito_2.jpg" alt="Mi Lugar Favorito">}}

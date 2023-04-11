@@ -11,6 +11,6 @@ Ton is a boy approaching adolescence and feels a deep emotional discomfort. An e
 Together with her, he will explore the mystery of tears to learn the value of being yourself, trying to know yourself and not comparing yourself with others.
 But not all tears are the same or serve the same purpose…
 
-{{<image src="img/libros/Book_Lágrimas_1.jpg" alt="De qué nos hablan las Lágrimas">}}
+{{<image class="rounded"  src="img/libros/Book_Lágrimas_1.jpg" alt="De qué nos hablan las Lágrimas">}}
 <br>
-{{<image src="img/libros/Book_Lágrimas_2.jpg" alt="De qué nos hablan las Lágrimas">}}
+{{<image class="rounded" src="img/libros/Books_Elsa_Lágrimas_2.jpg" alt="De qué nos hablan las Lágrimas">}}

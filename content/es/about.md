@@ -17,8 +17,10 @@ Los proyectos en los que actualmente está trabajando abordan algunos de los tem
 Actualmente vive en Barcelona y trabaja para México y España.
 <br><br>
 
+{{<image class="rounded" src="img/illus/Elsa_Talleres_1.jpg" alt="Talleres">}}
+
 <div class="text-center mb-5 mt-4">
-    <div class="h2 mb-3">Contacto</div>
+    <div class="h2 mb-3">Contact</div>
     <div class="featured-content mb-2">
         <a href="maito:hello@elsaestudio.com">hello@elsaestudio.com</a>
     </div>
