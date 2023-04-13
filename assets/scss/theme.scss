@@ -10,6 +10,13 @@
     --bs-dropdown-link-active-bg: #c019c6;
 }
 
+@media (max-width: 768px) {
+* {
+    --bs-nav-link-font-size: 2rem;
+}
+}
+
+
 .w-30 { width: 30% }
 .w-40 { width: 40% }
 
@@ -43,6 +50,10 @@
         min-width: 640px;
         min-height: 480px;
     }    
+}
+
+.container-fluid-featured {
+    height: 90vh;
 }
 
 .featured-content a {
