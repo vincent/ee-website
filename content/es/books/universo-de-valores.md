@@ -13,5 +13,7 @@ Este es un viaje apasionante para las infancias y sus cuidadores, una historia l
 {{<image class="rounded" src="img/libros/5_Book_El Universo de Valores.jpg" alt="El Universo de Valores">}}
 <br>
 {{<image class="rounded" src="img/libros/Books_Elsa_Valores_Cooperación.jpg" alt="El Universo de Valores">}}
+<br>
+{{<image class="rounded" src="img/illus/Presentación_Sevilla.jpg" alt="El Universo de Valores">}}
 
 {{< youtube BvPXoYUHXRY "mt-4 w-100 text-center" >}}

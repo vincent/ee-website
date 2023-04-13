@@ -7,9 +7,6 @@
 # toml-docs-start lang-param
     [en.params.head]
         tagline = "Elsa Sánchez"
-    [en.params.feature]
-        link = "/en/about"
-        caption = "About me"
     [en.params.footer]
         license = ""
         socialTitle = "Follow me"
@@ -22,9 +19,6 @@
     weight = 2
     [es.params.head]
         tagline = "Elsa Sánchez"
-    [es.params.feature]
-        link = "/es/about"
-        caption = "Sobre mí"
     [es.params.footer]
         license = ""
         socialTitle = "Follow me"
