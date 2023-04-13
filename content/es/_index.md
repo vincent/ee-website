@@ -11,3 +11,5 @@ El placer y la alegría de crear otros mundos y de re interpretar el nuestro.
 <br>
 <br>
 <br>
+
+{{<image class="rounded" src="img/illus/Home_INMU.jpg" alt="Elsa Sánchez">}}
