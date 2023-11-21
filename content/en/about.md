@@ -9,7 +9,7 @@ showComments: false
 
 <div class="row">
 <div class="mb-3 col-12 col-xl-6 text-center">
-    {{<image class="rounded" src="img/illus/Elsa.jpg" alt="Talleres">}}
+    {{<image class="rounded" src="img/illus/ELSA Y ANTONIO.jpg" alt="Elsa">}}
 </div>
 
 <div class="col-12 col-xl-6">
